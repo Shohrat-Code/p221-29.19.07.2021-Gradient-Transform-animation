@@ -16,4 +16,4 @@ https://www.w3schools.com/css/css3_animations.asp<br />
 ##### 2. Aşağıdakı tapşırıqları həll edin:
 i. Son tapşırığı tam tamamlayın.<br />
 ii. Linkdəki şəkildə göstərdiyim tapşırıqğı kodlayın. http://themesindustry.com/html/trax-2020/about.html
-![task image](https://github.com/Shohrat-Code/p221-28.15.07.2021-Flex-Media-query/blob/4b8ca38de54d940780596a4a08cb2d0e8c900915/1.PNG)<br />
+![task image](https://github.com/Shohrat-Code/p221-29.19.07.2021-Gradient-Transform-animation/blob/a5d87ac6e03643e8b1c61462bf514c8d2d91c0b7/1.PNG)<br />
